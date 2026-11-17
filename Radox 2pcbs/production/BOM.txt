@@ -1,0 +1,5 @@
+#BOM für eine hälfte
+35Pcs 1N4148 https://www.conrad.com/en/p/diotec-ultra-fast-si-diode-1n4148-sod-27-75-v-150-ma-162280.html
+35Pcs Kailh hotswap sockets https://splitkb.com/products/kailh-hotswap-sockets
+1 Pcs RP2040 Zero https://www.amazon.de/Waveshare-RP2040-Zero-High-Performance-Microcontroller-Castellated/dp/B0B2Z3YWB9
+1 Pcs pj 320A https://www.amazon.co.uk/sourcing-Connector-Female-Socket-PJ-320A/dp/B07KYBXP85
